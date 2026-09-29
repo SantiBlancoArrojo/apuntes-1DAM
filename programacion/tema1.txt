@@ -1,1 +1,3 @@
-# Probando a cambiar el repositorio github y descargarlo con pull.
+ Tema 1 : Introducción a la programación 
+-Algoritmos
+-Diagramas de flujo
